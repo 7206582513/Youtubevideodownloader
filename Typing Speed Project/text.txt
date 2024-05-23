@@ -1,0 +1,5 @@
+Hello world my name is Rohit Makani and I am the best at making Python Projects!
+This is another test block of text for this project!
+Connect with me on linkedin.
+Okay this is just another test to make sure the app is working okay!
+And thats is the project of my typing speed.
